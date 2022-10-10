@@ -1,4 +1,4 @@
-## Olá eu sou a Guilherme Peres, sou estudante de Sistema de Informação na UFU!
+## Olá eu sou a Guilherme Peres, sou estudante de Siste!
 <div align="center">
   <a href="https://github.com/Guilherme0202PM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme0202PM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
