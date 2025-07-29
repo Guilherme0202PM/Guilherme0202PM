@@ -19,8 +19,22 @@
 
 <div align="center">
   <a href="https://github.com/Guilherme0202PM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme0202PM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme0202PM&show_icons=true&theme=dracula&include_all_commits=true"/>
+
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme0202PM&layout=compact&langs_count=7&theme=dracula"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guilherme0202PM&theme=synthwave" alt="Profile Summary" width="80%" />
+
+</div>
+
+<div align="center">
+  
+  [![Guilherme github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Guilherme0202PM&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  <img src="https://streak-stats.demolab.com?user=Guilherme0202PM&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
+  <img src="https://github-profile-trophy.vercel.app?username=Guilherme0202PM&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
  
