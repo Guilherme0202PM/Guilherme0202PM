@@ -29,6 +29,26 @@
 
 </div>
 
+## Tecnologias e linguagens 💻
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,c,cpp)](https://skillicons.dev)
+
+### 🚀 Frameworks e bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=spring,mysql,postgres,react,nodejs)](https://skillicons.dev)
+
+### 🛠️ Ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,idea,pycharm,vscode,postman)](https://skillicons.dev)
+
+
+<p align="left"> 
+  Sou estudante do <strong>último período de Sistemas de Informação</strong> pela Universidade Federal de Uberlândia (UFU). <br><br>
+  Tenho me aprofundado em <strong>Python</strong> para aplicações de <strong>Ciência de Dados</strong> e <strong>Inteligência Artificial</strong>, além de desenvolver soluções com <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>Angular</strong> e <strong>SQL</strong> em projetos pessoais e acadêmicos. <br><br>
+  Também me interesso por <strong>Redes Neurais</strong>, <strong>Estratégias Evolutivas</strong> e por construir aplicações práticas que resolvam problemas reais com tecnologia. <br><br>
+  Acredito que aprender construindo é o melhor caminho, por isso transformo teoria em prática sempre que posso 🚀
+</p>
+
+
+
 <div align="center">
   
   [![Guilherme github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Guilherme0202PM&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
